@@ -1,0 +1,14 @@
+{
+  "name": "pnpm-docz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "docz": "^2.4.0",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "react": "^17",
+    "react-dom": "^17"
+  }
+}
